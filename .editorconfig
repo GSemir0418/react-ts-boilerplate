@@ -1,0 +1,19 @@
+# 表示最顶层的配置文件
+root = true
+
+[*]
+# 缩进风格，space|tab
+indent_style = space
+# tab距离
+tab_width = 2
+# 缩近距离
+indent_size = 4
+# 设置字符编码
+charset = utf-8
+# 去除换行行首的任意空白字符
+trim_trailing_whitespace = true
+# 文件以一个空白行结尾
+insert_final_newline = true
+# 设置换行符 lf|cr|crlf|unset
+# 分别表示 \n|\r|\r\n|跟随系统
+end_of_line = unset

@@ -1,0 +1,10 @@
+{
+    "name": "react-ts-boilerplate",
+    "version": "1.0.0",
+    "description": "A boilerplate for react + typescript development",
+    "private": "true",
+    "repository": "git@github.com:GSemir0418/react-ts-boilerplate.git",
+    "author": "gsemir0418 <845217811@qq.com>",
+    "license": "MIT",
+    "scripts": {}
+}
